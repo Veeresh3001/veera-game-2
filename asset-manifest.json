@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/veera-game-2/static/css/main.518ea57c.css",
+    "main.js": "/veera-game-2/static/js/main.f13a3d65.js",
+    "static/js/787.2e435174.chunk.js": "/veera-game-2/static/js/787.2e435174.chunk.js",
+    "index.html": "/veera-game-2/index.html",
+    "main.518ea57c.css.map": "/veera-game-2/static/css/main.518ea57c.css.map",
+    "main.f13a3d65.js.map": "/veera-game-2/static/js/main.f13a3d65.js.map",
+    "787.2e435174.chunk.js.map": "/veera-game-2/static/js/787.2e435174.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.518ea57c.css",
+    "static/js/main.f13a3d65.js"
+  ]
+}
